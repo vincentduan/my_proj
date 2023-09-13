@@ -1,0 +1,70 @@
+Min ts 2009-09-29 10:56:28, max ts 2016-03-06 18:53:41
+Total time span: 2350 days
+total nodes: 21688
+total links: 107581
+Agg graph nodes: 21688, edges: 88956
+Start date: 2009-09-29 10:56:28
+# slice1 Start Time: 2010-02-26 11:06:12
+# slice2 Start Time: 2010-07-26 11:00:40
+# slice3 Start Time: 2010-12-23 11:16:31
+# slice4 Start Time: 2011-05-22 11:06:55
+# slice5 Start Time: 2011-10-19 11:18:54
+# slice6 Start Time: 2012-03-17 11:21:49
+# slice7 Start Time: 2012-08-14 11:28:08
+# slice8 Start Time: 2013-01-11 12:05:10
+# slice9 Start Time: 2013-06-10 11:01:54
+# slice10 Start Time: 2013-11-07 11:06:49
+# slice11 Start Time: 2014-04-06 11:24:43
+# slice12 Start Time: 2014-09-03 11:17:06
+# slice13 Start Time: 2015-01-31 11:13:23
+# slice14 Start Time: 2015-06-30 12:20:31
+# slice15 Start Time: 2015-11-27 10:56:30
+# nodes in slice0 count: 1900
+# edges in slice0 count: 11095
+Shape of temp matrix (21688, 21688)
+# nodes in slice1 count: 3498
+# edges in slice1 count: 10571
+Shape of temp matrix (21688, 21688)
+# nodes in slice2 count: 5129
+# edges in slice2 count: 9898
+Shape of temp matrix (21688, 21688)
+# nodes in slice3 count: 6703
+# edges in slice3 count: 8966
+Shape of temp matrix (21688, 21688)
+# nodes in slice4 count: 8014
+# edges in slice4 count: 6705
+Shape of temp matrix (21688, 21688)
+# nodes in slice5 count: 9371
+# edges in slice5 count: 6525
+Shape of temp matrix (21688, 21688)
+# nodes in slice6 count: 10729
+# edges in slice6 count: 6709
+Shape of temp matrix (21688, 21688)
+# nodes in slice7 count: 12095
+# edges in slice7 count: 6252
+Shape of temp matrix (21688, 21688)
+# nodes in slice8 count: 13654
+# edges in slice8 count: 6746
+Shape of temp matrix (21688, 21688)
+# nodes in slice9 count: 15052
+# edges in slice9 count: 5577
+Shape of temp matrix (21688, 21688)
+# nodes in slice10 count: 16406
+# edges in slice10 count: 5668
+Shape of temp matrix (21688, 21688)
+# nodes in slice11 count: 17621
+# edges in slice11 count: 5099
+Shape of temp matrix (21688, 21688)
+# nodes in slice12 count: 18720
+# edges in slice12 count: 4803
+Shape of temp matrix (21688, 21688)
+# nodes in slice13 count: 19853
+# edges in slice13 count: 4969
+Shape of temp matrix (21688, 21688)
+# nodes in slice14 count: 20951
+# edges in slice14 count: 4867
+Shape of temp matrix (21688, 21688)
+# nodes in slice15 count: 21688
+# edges in slice15 count: 3131
+Shape of temp matrix (21688, 21688)
+Total # nodes 21688, max idx: max(all_nodes)

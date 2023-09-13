@@ -1,0 +1,33 @@
+Start date: 2004-07-05
+# slice1 Start Time: 2006-07-05
+# slice2 Start Time: 2008-07-04
+# slice3 Start Time: 2010-07-04
+# slice4 Start Time: 2012-07-03
+# slice5 Start Time: 2014-07-03
+# slice6 Start Time: 2016-07-02
+# slice7 Start Time: 2018-07-02
+# nodes in slice0 count: 619
+# edges in slice0 count: 654
+Shape of temp matrix (27480, 27480)
+# nodes in slice1 count: 2850
+# edges in slice1 count: 2496
+Shape of temp matrix (27480, 27480)
+# nodes in slice2 count: 5574
+# edges in slice2 count: 3333
+Shape of temp matrix (27480, 27480)
+# nodes in slice3 count: 7237
+# edges in slice3 count: 2125
+Shape of temp matrix (27480, 27480)
+# nodes in slice4 count: 10888
+# edges in slice4 count: 4632
+Shape of temp matrix (27480, 27480)
+# nodes in slice5 count: 16581
+# edges in slice5 count: 6535
+Shape of temp matrix (27480, 27480)
+# nodes in slice6 count: 26023
+# edges in slice6 count: 10979
+Shape of temp matrix (27480, 27480)
+# nodes in slice7 count: 27480
+# edges in slice7 count: 1729
+Shape of temp matrix (27480, 27480)
+Total # nodes 27480, max idx: max(all_nodes)
